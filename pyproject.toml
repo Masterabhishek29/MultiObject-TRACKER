@@ -1,8 +1,8 @@
 [project]
 name = "trajectory-forecast"
 dynamic = ["version"]
-authors = [{ name="HOSEN ARAFAT" }]
-maintainers = [{ name = "HOSEN ARAFAT" }]
+authors = [{ name="ABHISHEK NARUKA" }]
+maintainers = [{ name = "ABHISHEK NARUKA" }]
 description = "A lightweight Python package for real-time object tracking and trajectory forecasting using Ultralytics YOLO."
 readme = "README.md"
 requires-python = ">=3.9"
