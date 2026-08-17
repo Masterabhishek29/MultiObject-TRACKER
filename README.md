@@ -1,4 +1,4 @@
-# TMultiObject-TRACKER
+# MultiObject-TRACKER
 
 Trajectory Forecast is a lightweight, modular extension built on top of Ultralytics YOLO that enables real-time multi-object tracking with future motion prediction. It combines detection, tracking, motion history modeling, and velocity-based forecasting into a unified pipeline that can be used both as a command-line tool and as a Python library. The system is designed for practical computer vision applications such as traffic analytics, surveillance systems, robotics pipelines, and edge AI deployments. Unlike heavy deep-learning forecasting architectures, this framework uses a **lightweight motion model optimized for stability and speed**, making it suitable for:
 
